@@ -43,4 +43,7 @@ Run the tumblelog:
    
     python manage.py runserver
 
-Goto: [http://localhost:5000](http://localhost:5000)
+Goto: 
+[admin site](http://0.0.0.0:5000/admin)
+    username: admin
+    password: secret
