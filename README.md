@@ -4,9 +4,6 @@
 The source code for the [Write a Tumblelog Application with Flask and MongoEngine](http://docs.mongodb.org/manual/tutorial/write-a-tumblelog-application-with-flask-mongoengine/)
 tutorial.
 
-This repository will include a step by step folder
-of how we will implement a tumblelog
-
 This tutorial will ignore the database part and the css styling options
 to limit the scope of the focus to the structure of the basic Python web 
 framework. 
